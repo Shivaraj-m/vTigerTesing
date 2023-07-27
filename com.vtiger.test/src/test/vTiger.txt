@@ -1,0 +1,5 @@
+url https://demo.vtiger.com/vtigercrm/
+UserName admin
+Password manager
+title vtiger
+browser Chrome

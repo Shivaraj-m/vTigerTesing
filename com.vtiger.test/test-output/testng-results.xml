@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[Expected result is pass]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2023-07-27T12:41:37 IST" name="Default suite" finished-at="2023-07-27T12:41:49 IST" duration-ms="11687">
+    <groups>
+    </groups>
+    <test started-at="2023-07-27T12:41:37 IST" name="Default test" finished-at="2023-07-27T12:41:49 IST" duration-ms="11687">
+      <class name="com.vtiger.test.vTigerHomePageTest">
+        <test-method is-config="true" signature="beforConfigure()[pri:0, instance:com.vtiger.test.vTigerHomePageTest@2f217633]" started-at="2023-07-27T12:41:37 IST" name="beforConfigure" finished-at="2023-07-27T12:41:45 IST" duration-ms="8357" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforConfigure -->
+        <test-method signature="HomePage()[pri:0, instance:com.vtiger.test.vTigerHomePageTest@2f217633]" started-at="2023-07-27T12:41:45 IST" name="HomePage" finished-at="2023-07-27T12:41:47 IST" duration-ms="2187" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Expected result is pass]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- HomePage -->
+        <test-method is-config="true" signature="afterConfigure()[pri:0, instance:com.vtiger.test.vTigerHomePageTest@2f217633]" started-at="2023-07-27T12:41:47 IST" name="afterConfigure" finished-at="2023-07-27T12:41:49 IST" duration-ms="1076" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterConfigure -->
+      </class> <!-- com.vtiger.test.vTigerHomePageTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
