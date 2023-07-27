@@ -14,6 +14,6 @@ public class vTigerHomePageTest extends BaseClass {
 		elements.getPassWord().sendKeys(fileutil.readFromProoertyFile("Password"));
 		elements.getSignUpButton().submit();
 		assertEquals(driver.getTitle(), fileutil.readFromProoertyFile("title"));
-		Reporter.log("Expected result is pass", true);
+		Reporter.log("Expected result is pass Mr.Shivaraj", true);
 	}
 }
